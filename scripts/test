@@ -1,6 +1,6 @@
 import sys
 
-from rqt_mypkg.my_module import MyPlugin
+from test.my_module import MyPlugin
 from rqt_gui.main import Main
 
 plugin = 'test'
